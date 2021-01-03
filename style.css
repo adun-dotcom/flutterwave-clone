@@ -1,0 +1,73 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+body{
+    font-size: 1.5rem;
+    color: #000;
+    background-color: #F4F6F8;
+    padding: 10rem;
+}
+
+.container{
+    width: 50%;
+    margin: auto;
+    padding:0 20rem;
+}
+
+.flutter-img{
+    text-align: center;
+    margin-bottom: 4rem;
+}
+
+.flutter-img p{
+    padding-top: 5rem;
+    font-size: 3rem;
+    letter-spacing: 0.2rem;
+}
+a{
+    text-decoration: none;
+    color: #508BCF;
+}
+
+
+
+.login-details input{
+    width: 100%;
+    padding: 1rem 2rem;
+    border-radius: 5px;
+    margin-bottom: 3rem;
+    margin-top: 1.5rem;
+    outline: none;
+    border: 1px solid #777d83;
+}
+
+form{
+    opacity: 0.8;
+}
+
+.btn{
+    display: block;
+    width: 100%;
+    padding: 2rem;
+    background-color:#F5A623;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 2rem;
+    margin: 3rem 0;
+}
+
+.btn:hover{
+    background-color: #C88009;
+}
+
+.login-details p{
+    text-align: center;
+}
